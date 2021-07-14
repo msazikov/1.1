@@ -1,0 +1,50 @@
+body{
+    font-family: 'Barlow', sans-serif; color: #2A4A5C; background-color: #EFF6FF;
+}
+
+.logo{
+    position: absolute;
+    width: 150px;
+    height: auto;
+    margin: 40px;
+}
+
+.facebook{
+    margin-top: 7%;
+    background-color: #255A9B;
+    height: 3%; width: 20%;
+    color: white;
+    float: left;
+    border: 0px;
+}
+
+.linkedin{
+    margin-top: 7%;
+    margin-left: 5%;
+    background-color: #0076B6;
+    height: 3%;
+    width: 20%;
+    color: white;
+    border: 0px;
+}
+
+.CreareAcc{
+    background-color: #0076B6;
+    height: 5%;
+    width: 25%;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 7%;
+}
+
+#type{
+    margin-left: 11%;
+}
+
+.text{
+    margin-left: 1%;
+    border: none;
+    font-family: 'Barlow', sans-serif;
+    box-shadow: 0 0 5px 0px;
+}
